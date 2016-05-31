@@ -5,8 +5,9 @@ Try it  [MarkEditor](http://markeditor.com/app/markeditor)
 
 ## How to use the themes 
 - 1. Download the style.css .
-- 2. Open the Preferences in the MarkEditor.   <kbd>command</kbd> +<kdb>,<kdb>
+- 2. Open the Preferences in the MarkEditor.   <kbd>command</kbd> + <kdb>,</kdb>
 - 3. Copy the style.css to day style.
+
 ## Themes
 1. Day Blue 
 
